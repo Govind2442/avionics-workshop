@@ -1,4 +1,4 @@
-25618614996221047
+25620371620892527
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60220,6 +60220,13 @@ GovindLibrary
 0
 4
 4
+GovindLibrary
+AS32-TTL100
+
+
+0
+7
+7
 GovindLibrary
 BMP280
 
